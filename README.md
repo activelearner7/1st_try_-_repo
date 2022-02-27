@@ -1,2 +1,3 @@
 # 1st_try_-_repo
-learning about repositry and stuff
+I have developed an educational website to share amazing science facts.
+In the this website i am sharing about something which we all neglect in our life i.e. the impotance of trees.
